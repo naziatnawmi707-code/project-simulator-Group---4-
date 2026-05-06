@@ -1,0 +1,8 @@
+STORY-003
+Role             : User
+I Want To        : Browse all available courses
+So That          : I can see what courses are offered and who is teaching them
+Acceptance Criteria:
+  
+A list of all published courses is displayed.
+Each course card shows the course title, description, and assigned teacher's name.

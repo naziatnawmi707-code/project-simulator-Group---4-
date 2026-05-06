@@ -1,0 +1,10 @@
+STORY-001
+Role             : User
+I Want To        : Sign up for a new account
+So That          : I can enroll myself in the system
+Acceptance Criteria:
+  
+Email must be unique and valid.
+Password must be at least 8 characters.
+User type must be selected.
+On success, account is created with the 'User' role and redirected to sign-in.
