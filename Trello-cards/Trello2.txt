@@ -1,0 +1,10 @@
+STORY-002
+Role             : User
+I Want To        : See a personalized homepage upon login
+So That          : I understand my current status and know what actions I can take
+Acceptance Criteria:
+  
+The dashboard welcomes me and shows my current role as 'User'.
+It provides clear links to browse courses, browse teachers, and view my profile.
+It displays a message about how to upgrade to a Student or Teacher role.
+
